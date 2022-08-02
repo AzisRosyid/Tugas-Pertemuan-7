@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListView Sederhana</string>
+    <string name="pilih_nama_negara">Pilih Nama Negara :</string>
+    <string name="nama_negara">Nama Negara</string>
+</resources>
